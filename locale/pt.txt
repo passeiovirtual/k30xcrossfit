@@ -1,0 +1,77 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Conheça toda à nossa estrutura em 360º.
+
+### Title
+tour.name = Passeio Virtual - K30X CrossFit 
+
+## Skin
+
+### Button
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB.label = Site Oficial 
+Button_A021923B_B23F_762B_41C9_D88AE6B679EB_mobile.label = Site Oficial 
+Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A.label = Aula Grátis
+Button_A0DCD0C0_B23F_1255_41E3_7DF8C0B07A4A_mobile.label = Aula Grátis
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4.label = Foto Aérea 
+Button_A157FC70_B23F_1235_41B4_A47CA8EDB7F4_mobile.label = Foto Aérea 
+Button_A31ACC32_B223_1235_41C9_5E85540954F7.label = Fale Conosco 
+Button_A31ACC32_B223_1235_41C9_5E85540954F7_mobile.label = Fale Conosco 
+
+## Media
+
+### Title
+panorama_185A7763_144D_4802_4197_93F0D99CDE68.label = ARMÁRIOS
+panorama_1AC51C5E_155C_2E30_41B3_8A148335AE44.label = SALA DE DANÇA
+panorama_1EA15BEC_144D_3805_41A8_11AFB619A9A8.label = DEPOSITO 2
+panorama_1EA15DDD_144D_F807_41A9_8E3A7A7F6034.label = CONSULTORIO
+panorama_1EBA7F45_144D_7807_41B3_4B66038CDFDD.label = BANHEIRO FEMININO
+panorama_1EBE2D27_144D_5803_41AD_C17D3E8DB5F5.label = BANHEIRO MASCULINO
+panorama_1EBE79D9_144D_380F_419D_A38EE2DA3F50.label = CAIXAS
+panorama_1EBE8C48_144D_D80D_41AC_07341DFC8A8E.label = CONSULTORIO INTERNO
+panorama_1EBE9F17_144B_F803_41B2_C17090FB5906.label = SALÃO 2
+panorama_1EBEAD3D_144D_D807_4183_FECCBE1F97A7.label = DEPOSITO 1
+panorama_1EBED9EB_144D_7803_4189_7F0B0DA766EB.label = ESCADA
+panorama_1EBEDC22_144D_583D_4191_B9E2F1CDC4BF.label = ESCADA 2
+panorama_1EBEE654_144D_4805_41B0_D583243D0E48.label = FAIXADA
+panorama_1EBF1E43_144B_5803_41AA_85F85BAC49FB.label = KIDS
+panorama_1EBF51AA_144C_C80D_419A_EBBCDFA83D4A.label = INTERNA 4
+panorama_1EBF535C_144C_C806_41B4_180AD3089271.label = INTERNA 3
+panorama_1EBF54C6_144C_C805_41A9_ED9DEDEEE50B.label = INTERNA 2
+panorama_1EBF5F7F_144B_D802_4172_043AB44E9BFE.label = SALÃO 1
+panorama_1EBF6685_144C_C807_41AE_9336E5FD2096.label = INTERNA 1
+panorama_1EBF9BB1_144B_781F_4192_38EE345E2BE8.label = LANCHONETE
+panorama_1EBFD07D_144B_4806_41B0_DC1E610EB14D.label = INTERNA 5
+panorama_1EBFFDD0_144B_581D_41AB_BD827BB6A3F4.label = RECEPÇÃO
+panorama_1FDAB7AC_154C_1A10_417D_1C2A7FAC00BA.label = DRONE 2
+photo_00322868_18A5_5B1A_41B7_A89D4BB8DFAA.label = LOGO IMAGEM
+video_0F594F50_1B64_B1C6_4183_DFA6A85A7282.label = K30x CrosFit Sem Áudio 
+
+## Popup
+
+### Body
+htmlText_004012B6_18AD_AF76_41AE_7EB549DB15E4.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_0071002B_18A4_AB1E_41AF_F140DA1286D4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#00cc00;">Dentro da K30x nós temos o nosso consultório de fisioterapia com preços e condições especiais para alunos. Aproveite e consulte mais informações através do nosso atendimento via WhatsApp.<BR/><BR/>#VempraK30x CrosFit.</SPAN></SPAN></DIV></BODY></HTML></div>
+htmlText_0292770E_19ED_715D_41AF_5F8407581FD8.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Action
+
+### URL
+LinkBehaviour_0031BD57_18A5_B535_41B3_EC05DDDB165A.source = https://www.google.com/maps/dir//k30x/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x935ef71a02c0e2f1:0x54487ee4c99a3b5d?sa=X&ved=2ahUKEwjw5c3R0IT6AhXrjZUCHT8jCWAQ9Rd6BAhZEAU
+LinkBehaviour_0031CD53_18A5_B50D_41B7_4683CB3C6767.source = https://web.whatsapp.com/send?phone=5562994560059&text=Ol%C3%A1%2C%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20e%20agendar%20uma%20aula%20experimental
+LinkBehaviour_0032BD52_18A5_B50F_41A5_5929F9645924.source = https://web.whatsapp.com/send?phone=5562994560059&text=Ol%C3%A1%2C%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20e%20agendar%20uma%20aula%20experimental
+LinkBehaviour_0033DD56_18A5_B537_4199_F7AD4917EEB0.source = https://pt-br.facebook.com/k30xcrossfit/
+LinkBehaviour_003C7D55_18A5_B535_41B3_10E276DE9818.source = https://www.instagram.com/k30xcrossfit/
+LinkBehaviour_003CDD50_18A5_B50C_41B2_4DF98896F3F4.source = https://k30xcrossfit.com.br/
+LinkBehaviour_003E7D4B_18A5_B51D_41A3_6BB448D98A2B.source = https://k30xcrossfit.com.br/
+LinkBehaviour_003F9D4D_18A5_B515_41A7_94CC96BF1FA7.source = https://web.whatsapp.com/send?phone=5562994560059&text=Ol%C3%A1%2C%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20e%20agendar%20uma%20aula%20experimental
+LinkBehaviour_00AA8CC1_18A5_FB13_41B6_208D12F8E876.source = https://k30xcrossfit.com.br/
+LinkBehaviour_F41E0082_E14E_423F_41A7_D380B25179F9.source = https://web.whatsapp.com/send?phone=5562994560059&text=Ol%C3%A1%2C%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20e%20agendar%20uma%20aula%20experimental
+LinkBehaviour_F43A2A50_E146_46DC_41E8_1AD3A78A95C6.source = https://www.google.com/maps/dir//k30x/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x935ef71a02c0e2f1:0x54487ee4c99a3b5d?sa=X&ved=2ahUKEwjw5c3R0IT6AhXrjZUCHT8jCWAQ9Rd6BAhZEAU
+LinkBehaviour_F4A96330_E14E_465C_41E4_AF592CDF873D.source = https://k30xcrossfit.com.br/
+LinkBehaviour_F4CB1F21_E14E_7E7D_41D1_3BAE6184ACA7.source = https://web.whatsapp.com/send?phone=5562994560059&text=Ol%C3%A1%2C%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20e%20agendar%20uma%20aula%20experimental
+LinkBehaviour_F5AACA50_E14E_C6DB_41CD_BCCA9F1F0CBA.source = https://web.whatsapp.com/send?phone=5562994560059&text=Ol%C3%A1%2C%20gostaria%20de%20obter%20mais%20informa%C3%A7%C3%B5es%20e%20agendar%20uma%20aula%20experimental
+LinkBehaviour_F74A5EFA_E146_BFCF_41CD_E6B60D11B4A5.source = https://pt-br.facebook.com/k30xcrossfit/
+LinkBehaviour_F74F8B8F_E141_C645_41D2_E3A08D86DC86.source = https://www.instagram.com/k30xcrossfit/
